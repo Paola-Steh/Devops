@@ -1,0 +1,15 @@
+{
+  "name": "projeto-testes-swapi",
+  "version": "1.0.0",
+  "description": "Projeto de testes de integração com Jest e Supertest utilizando a API Star Wars",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Paola Stephanie Espejo Barbuio - Matrícula: 2414290088",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^7.0.0"
+  }
+}
